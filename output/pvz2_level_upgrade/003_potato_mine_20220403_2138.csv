@@ -1,0 +1,21 @@
+level,seed_packets,coins,upgrades_sun_cost,upgrades_area,upgrades_plant_food_power_duplication,upgrades_recharge_sluggish_in_sec,upgrades_startingrecharge_in_sec,upgrades_toughness_typical_in_dps,upgrades_damage_massive_in_dps,upgrades_arming_time_slow_in_sec
+1,0,0,25,Tile,2 duplicates,20.0,15.0,300,1800,14.0
+2,3,50,25,Tile,2 duplicates,19.0,14.0,350,1900,14.0
+3,10,200,25,Tile,2 duplicates,18.0,14.0,400,2000,13.0
+4,25,1500,25,Tile,2 duplicates,17.0,12.0,450,2100,13.0
+5,50,2000,25,Tile,2 duplicates,16.0,12.0,500,2175,13.0
+6,75,3000,25,Tile,3 duplicates,15.0,12.0,550,2250,13.0
+7,100,4000,25,Tile,3 duplicates,14.0,10.0,600,2325,13.0
+8,125,5000,25,Tile,3 duplicates,14.0,10.0,650,2400,12.0
+9,175,6000,25,Tile,3 duplicates,13.0,8.0,700,2400,12.0
+10,225,8000,25,Tile,3 duplicates,12.0,8.0,750,2400,12.0
+11,300,10000,25,Tile,4 duplicates,12.0,8.0,800,2400,12.0
+12,350,15000,25,Tile,4 duplicates,11.0,6.0,850,2400,12.0
+13,350,20000,25,Tile,4 duplicates,10.0,5.0,900,2400,12.0
+14,400,25000,25,Tile,4 duplicates,10.0,5.0,900,2400,12.0
+15,450,30000,25,Tile,4 duplicates,9.0,4.0,900,2400,11.0
+16,500,35000,25,Tile,4 duplicates,8.0,3.0,900,2400,11.0
+17,550,40000,25,Tile,5 duplicates,8.0,3.0,900,2400,11.0
+18,600,45000,25,Tile,5 duplicates,7.0,2.0,900,2400,10.0
+19,700,50000,25,Tile,5 duplicates,6.0,2.0,900,2400,9.0
+20,800,55000,0,Tile,5 duplicates,5.0,1.0,900,2400,9.0

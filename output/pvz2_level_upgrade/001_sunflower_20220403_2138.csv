@@ -1,0 +1,11 @@
+level,seed_packets,coins,upgrades_sun_cost,upgrades_sun_production_normal,upgrades_recharge_fast_in_sec,upgrades_toughness_typical_in_dps
+1,0,0,50,50 sun,5.0,300
+2,10,1000,50,50 sun,4.5,350
+3,75,5000,50,50 sun,4.5,400
+4,200,10000,50,50 sun,4.0,450
+5,400,20000,50,60 sun,4.0,550
+6,750,30000,50,60 sun,3.5,600
+7,1000,40000,50,60 sun,3.0,650
+8,1250,50000,25,60 sun,3.0,700
+9,1500,60000,25,60 sun,2.5,800
+10,2000,75000,25,75 sun,2.5,900
