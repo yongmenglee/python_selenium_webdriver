@@ -10,3 +10,4 @@ Playground for learning Selenium WebDriver using Python programming language for
 ## Tutorials
 
 1. Python Selenium WebDriver - Finding WebElement with XPath (view [here](https://github.com/yongmenglee/python_selenium_webdriver/blob/main/t01_python_selenium_webdriver_webelement_xpath.ipynb))
+2. Python Selenium WebDriver - Finding WebElement with other strategies (view [here](https://github.com/yongmenglee/python_selenium_webdriver/blob/main/t02_python_selenium_webdriver_webelement_others.ipynb))
